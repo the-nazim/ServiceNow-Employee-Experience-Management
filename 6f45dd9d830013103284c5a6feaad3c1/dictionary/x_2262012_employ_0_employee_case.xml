@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="e08b15d9834013103284c5a6feaad3ad" extends="task" label="Employee Case" max_length="40" name="x_2262012_employ_0_employee_case" type="collection">
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In Progress" sequence="20" value="in_progress"/>
+                <element inactive_on_update="false" label="New" sequence="10" value="new"/>
+                <element inactive_on_update="false" label="Approved" sequence="30" value="approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="40" value="rejected"/>
+                <element inactive_on_update="false" label="Closed" sequence="50" value="Closed"/>
+            </choice>
+        </element>
+        <element choice="1" label="Contact Preference" max_length="40" name="contact_preference" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Email" value="email"/>
+                <element inactive_on_update="false" label="Mobile" value="mobile"/>
+                <element inactive_on_update="false" label="Portal" value="portal"/>
+            </choice>
+        </element>
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Payroll" value="payroll"/>
+                <element inactive_on_update="false" label="HR" value="hr"/>
+                <element inactive_on_update="false" label="IT" value="it"/>
+                <element inactive_on_update="false" label="Access" value="access"/>
+            </choice>
+        </element>
+        <element label="Requested For" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element label="Manager" max_length="32" name="manager" reference="sys_user" type="reference"/>
+    </element>
+</database>
