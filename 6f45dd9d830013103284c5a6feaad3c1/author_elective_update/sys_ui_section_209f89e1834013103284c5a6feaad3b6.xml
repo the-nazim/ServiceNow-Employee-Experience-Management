@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="209f89e1834013103284c5a6feaad3b6" sys_domain="global" table="x_2262012_employ_0_employee_case" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-20 07:02:01</sys_created_on>
+            <sys_id>099fc9e1834013103284c5a6feaad3b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_2262012_employ_0_employee_case" sys_domain="global" view="Default view">209f89e1834013103284c5a6feaad3b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-20 07:02:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_2262012_employ_0_employee_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-20 07:01:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>209f89e1834013103284c5a6feaad3b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2262012_employ_0_employee_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Employee Experience Management" source="x_2262012_employ_0">6f45dd9d830013103284c5a6feaad3c1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Experience Management">6f45dd9d830013103284c5a6feaad3c1</sys_scope>
+            <sys_update_name>sys_ui_section_209f89e1834013103284c5a6feaad3b6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-20 07:01:59</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Experience Management">6f45dd9d830013103284c5a6feaad3c1</application>
+        <file_path/>
+        <instance_id>1a9d8637ebf70b5c3a48f459bad0cdcf</instance_id>
+        <instance_name>dev455348</instance_name>
+        <merge_base/>
+        <name>sys_ui_section_209f89e1834013103284c5a6feaad3b6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="209f89e1834013103284c5a6feaad3b6" sys_domain="global" table="x_2262012_employ_0_employee_case" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-20 07:02:01</sys_created_on><sys_id>099fc9e1834013103284c5a6feaad3b9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_2262012_employ_0_employee_case" sys_domain="global" view="Default view">209f89e1834013103284c5a6feaad3b6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-20 07:02:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_2262012_employ_0_employee_case</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-20 07:01:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>209f89e1834013103284c5a6feaad3b6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2262012_employ_0_employee_case</sys_name><sys_overrides/><sys_package display_value="Employee Experience Management" source="x_2262012_employ_0">6f45dd9d830013103284c5a6feaad3c1</sys_package><sys_policy/><sys_scope display_value="Employee Experience Management">6f45dd9d830013103284c5a6feaad3c1</sys_scope><sys_update_name>sys_ui_section_209f89e1834013103284c5a6feaad3b6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-20 07:01:59</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1114146347</payload_hash>
+        <record_name>Employee Case</record_name>
+        <reverted_from/>
+        <source>b3cc595d834013103284c5a6feaad3f5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-20 07:02:01</sys_created_on>
+        <sys_id>999fc9e1834013103284c5a6feaad3bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1581df8cf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-20 07:02:01</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>5d9fc9e1fc401310d96f2fe2616991bc</update_guid>
+        <update_guid_history>5d9fc9e1fc401310d96f2fe2616991bc:1114146347</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-20 07:03:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>03527293f9034bf3800e4401dd077aa1</sys_id>
+        <sys_metadata>209f89e1834013103284c5a6feaad3b6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="Employee Experience Management" source="x_2262012_employ_0">6f45dd9d830013103284c5a6feaad3c1</sys_package>
+        <sys_parent display_value="Employee Case">e08b15d9834013103284c5a6feaad3ad</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Employee Experience Management">6f45dd9d830013103284c5a6feaad3c1</sys_scope>
+        <sys_scope_delete display_value="">6a1a01e1bfc04de385060316dd41a469</sys_scope_delete>
+        <sys_update_name>sys_ui_section_209f89e1834013103284c5a6feaad3b6</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_209f89e1834013103284c5a6feaad3b6">999fc9e1834013103284c5a6feaad3bd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-20 07:03:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

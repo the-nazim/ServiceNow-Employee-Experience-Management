@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="INSERT_OR_UPDATE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value/>
+        <default_value_override>false</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>assignment_group</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_2262012_employ_0_employee_case</name>
+        <read_only>false</read_only>
+        <read_only_option/>
+        <read_only_option_override>false</read_only_option_override>
+        <read_only_override>false</read_only_override>
+        <reference_qual>active=true^user_group.nameINHR Support,IT Support,Employee Case Coordination,Experience Admins</reference_qual>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-20 09:00:56</sys_created_on>
+        <sys_id>31aa61e5830413103284c5a6feaad3a0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>assignment_group</sys_name>
+        <sys_package display_value="Employee Experience Management" source="x_2262012_employ_0">6f45dd9d830013103284c5a6feaad3c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Experience Management">6f45dd9d830013103284c5a6feaad3c1</sys_scope>
+        <sys_update_name>sys_dictionary_override_31aa61e5830413103284c5a6feaad3a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-20 09:15:44</sys_updated_on>
+    </sys_dictionary_override>
+</record_update>

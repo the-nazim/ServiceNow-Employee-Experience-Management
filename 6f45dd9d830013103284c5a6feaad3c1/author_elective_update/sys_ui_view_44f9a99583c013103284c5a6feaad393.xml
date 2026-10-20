@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>test_view</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-19 14:18:42</sys_created_on>
+        <sys_id>44f9a99583c013103284c5a6feaad393</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test View</sys_name>
+        <sys_package display_value="Employee Experience Management" source="x_2262012_employ_0">6f45dd9d830013103284c5a6feaad3c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Experience Management">6f45dd9d830013103284c5a6feaad3c1</sys_scope>
+        <sys_update_name>sys_ui_view_44f9a99583c013103284c5a6feaad393</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-19 14:18:42</sys_updated_on>
+        <title>Test View</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Experience Management">6f45dd9d830013103284c5a6feaad3c1</application>
+        <file_path/>
+        <instance_id>1a9d8637ebf70b5c3a48f459bad0cdcf</instance_id>
+        <instance_name>dev455348</instance_name>
+        <merge_base/>
+        <name>sys_ui_view_44f9a99583c013103284c5a6feaad393</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>test_view</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-19 14:18:42</sys_created_on><sys_id>44f9a99583c013103284c5a6feaad393</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test View</sys_name><sys_package display_value="Employee Experience Management" source="x_2262012_employ_0">6f45dd9d830013103284c5a6feaad3c1</sys_package><sys_policy/><sys_scope display_value="Employee Experience Management">6f45dd9d830013103284c5a6feaad3c1</sys_scope><sys_update_name>sys_ui_view_44f9a99583c013103284c5a6feaad393</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-19 14:18:42</sys_updated_on><title>Test View</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>-1490436746</payload_hash>
+        <record_name>Test View</record_name>
+        <reverted_from/>
+        <source>b3cc595d834013103284c5a6feaad3f5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-19 14:18:42</sys_created_on>
+        <sys_id>84f9a99583c013103284c5a6feaad399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1548767f70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-19 14:18:42</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>04f9a9950cc013102734d6362b05e998</update_guid>
+        <update_guid_history>04f9a9950cc013102734d6362b05e998:-1490436746</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-20 06:57:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>593f97ed10c34ebeb515e71312d422a9</sys_id>
+        <sys_metadata>44f9a99583c013103284c5a6feaad393</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test View</sys_name>
+        <sys_package display_value="Employee Experience Management" source="x_2262012_employ_0">6f45dd9d830013103284c5a6feaad3c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Experience Management">6f45dd9d830013103284c5a6feaad3c1</sys_scope>
+        <sys_scope_delete display_value="">6a1a01e1bfc04de385060316dd41a469</sys_scope_delete>
+        <sys_update_name>sys_ui_view_44f9a99583c013103284c5a6feaad393</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_44f9a99583c013103284c5a6feaad393">84f9a99583c013103284c5a6feaad399</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-20 06:57:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
