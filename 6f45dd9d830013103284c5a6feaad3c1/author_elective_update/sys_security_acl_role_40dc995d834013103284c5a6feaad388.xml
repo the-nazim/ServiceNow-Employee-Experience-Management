@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-19 13:21:22</sys_created_on>
+        <sys_id>40dc995d834013103284c5a6feaad388</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2262012_employ_0_employee_case.x_2262012_employ_0.employee_case_user</sys_name>
+        <sys_package display_value="Employee Experience Management" source="x_2262012_employ_0">6f45dd9d830013103284c5a6feaad3c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Experience Management">6f45dd9d830013103284c5a6feaad3c1</sys_scope>
+        <sys_security_acl display_value="x_2262012_employ_0_employee_case">c4dc995d834013103284c5a6feaad381</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_40dc995d834013103284c5a6feaad388</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-19 13:21:22</sys_updated_on>
+        <sys_user_role display_value="x_2262012_employ_0.employee_case_user" name="x_2262012_employ_0.employee_case_user">bfcc595d834013103284c5a6feaad3ef</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Experience Management">6f45dd9d830013103284c5a6feaad3c1</application>
+        <file_path/>
+        <instance_id>1a9d8637ebf70b5c3a48f459bad0cdcf</instance_id>
+        <instance_name>dev455348</instance_name>
+        <merge_base/>
+        <name>sys_security_acl_role_40dc995d834013103284c5a6feaad388</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-19 13:21:22</sys_created_on><sys_id>40dc995d834013103284c5a6feaad388</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2262012_employ_0_employee_case.x_2262012_employ_0.employee_case_user</sys_name><sys_package display_value="Employee Experience Management" source="x_2262012_employ_0">6f45dd9d830013103284c5a6feaad3c1</sys_package><sys_policy/><sys_scope display_value="Employee Experience Management">6f45dd9d830013103284c5a6feaad3c1</sys_scope><sys_security_acl display_value="x_2262012_employ_0_employee_case">c4dc995d834013103284c5a6feaad381</sys_security_acl><sys_update_name>sys_security_acl_role_40dc995d834013103284c5a6feaad388</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-19 13:21:22</sys_updated_on><sys_user_role display_value="x_2262012_employ_0.employee_case_user" name="x_2262012_employ_0.employee_case_user">bfcc595d834013103284c5a6feaad3ef</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-108932515</payload_hash>
+        <record_name>x_2262012_employ_0_employee_case.x_2262012_employ_0.employee_case_user</record_name>
+        <reverted_from/>
+        <source>b3cc595d834013103284c5a6feaad3f5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-19 13:21:22</sys_created_on>
+        <sys_id>04dc995d834013103284c5a6feaad391</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a15452ea570000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-19 13:21:22</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>c0dc995dd2401310ee1dcbba52f34990</update_guid>
+        <update_guid_history>c0dc995dd2401310ee1dcbba52f34990:-108932515</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_2262012_employ_0_employee_case.x_2262012_employ_0.employee_case_user">c49cfe7983c893103284c5a6feaad329</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-21 09:36:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>45739681b8104afc9b1e739490fe7424</sys_id>
+        <sys_metadata>40dc995d834013103284c5a6feaad388</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2262012_employ_0_employee_case.x_2262012_employ_0.employee_case_user</sys_name>
+        <sys_package display_value="Employee Experience Management" source="x_2262012_employ_0">6f45dd9d830013103284c5a6feaad3c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Experience Management">6f45dd9d830013103284c5a6feaad3c1</sys_scope>
+        <sys_scope_delete display_value="">6a1a01e1bfc04de385060316dd41a469</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_40dc995d834013103284c5a6feaad388</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_40dc995d834013103284c5a6feaad388">04dc995d834013103284c5a6feaad391</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-21 09:36:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

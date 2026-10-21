@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Cases by Category">7f0bd63983c493103284c5a6feaad3c5</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-21 07:10:16</sys_created_on>
+        <sys_id>330bd63983c493103284c5a6feaad3c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7f0bd63983c493103284c5a6feaad3c5</sys_name>
+        <sys_package display_value="Employee Experience Management" source="x_2262012_employ_0">6f45dd9d830013103284c5a6feaad3c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Experience Management">6f45dd9d830013103284c5a6feaad3c1</sys_scope>
+        <sys_update_name>sys_report_users_groups_330bd63983c493103284c5a6feaad3c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-21 07:10:16</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+</record_update>

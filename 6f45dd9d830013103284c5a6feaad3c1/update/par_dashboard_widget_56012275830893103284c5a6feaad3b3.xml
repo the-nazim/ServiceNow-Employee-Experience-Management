@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">92fada3983c493103284c5a6feaad3be</canvas>
+        <component display_value="Vertical bar">23051643b7e03010097cb81cde11a910</component>
+        <component_props>{"configVersion":"30.0.14","chartVariation":"stacked","yAxisPosition":"bottom","yAxisShowGrid":true,"xAxisWrapLabels":false,"xAxisMaxLabelSize":100,"showClosestSeriesOnHover":true,"xAxisTruncationType":"end","yAxisStyle":"clean","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"showDataLabels":false,"dataLabelPosition":"middle","showStackedValues":"none","showOverlappingLabels":false,"showPercentageOfTotalInTooltip":true,"yAxisHidden":false,"xAxisHidden":false,"colorConfig":{"type":"default"},"newReporting":false,"enableAddZerosAtApi":true,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Employee Case","sourceType":"table","tableOrViewName":"x_2262012_employ_0_employee_case","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzIyNjIwMTJfZW1wbG95XzBfZW1wbG95ZWVfY2FzZTE3OTI1Njc0MzM0Njc=","dataCategories":["trend","group","simple"]}],"showHeader":true,"supportsTableView":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"lineClamp":1,"headerTitleAlignment":"start","wrapTitle":false,"showHeaderSeparator":false,"contextMenuActions":[],"headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":false,"metrics":[{"dataSource":"dGFibGV4XzIyNjIwMTJfZW1wbG95XzBfZW1wbG95ZWVfY2FzZTE3OTI1Njc0MzM0Njc=","id":"4ee38dba-df77-4a45-b293-43e926c5cde9","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"dGFibGV4XzIyNjIwMTJfZW1wbG95XzBfZW1wbG95ZWVfY2FzZTE3OTI1Njc0MzM0Njc=","groupByField":"category","isRange":false,"isChoice":true,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}],"filterPerMetric":[],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"b455e90048024","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"hideDevSettings":false,"configPropModifiers":{},"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"autoAggregatePeriods":false,"scoreType":null,"showChangeFrom":"previous","useCurrentDateForEnd":false,"periodOverPeriod":false,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"showExtendedErrorMessages":true,"dateFormat":"default","showRefresh":true,"showExportOptions":true,"showFilterAsSeparateSeries":false,"userInfo":"@context.session.user","colors":{}}</component_props>
+        <h>15</h>
+        <name/>
+        <required_translations>[{"comment":"","message":"Employee Case","code":"PAR_DASHBOARD.92fada3983c493103284c5a6feaad3be.56012275830893103284c5a6feaad3b3"},{"comment":"","message":"No data available.","code":"PAR_DASHBOARD.92fada3983c493103284c5a6feaad3be.56012275830893103284c5a6feaad3b3"},{"comment":"","message":"There are no scores available for the selected criteria. Contact your admin for more info.","code":"PAR_DASHBOARD.92fada3983c493103284c5a6feaad3be.56012275830893103284c5a6feaad3b3"}]</required_translations>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-21 07:36:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>56012275830893103284c5a6feaad3b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Employee Experience Management" source="x_2262012_employ_0">6f45dd9d830013103284c5a6feaad3c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Experience Management">6f45dd9d830013103284c5a6feaad3c1</sys_scope>
+        <sys_update_name>par_dashboard_widget_56012275830893103284c5a6feaad3b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-21 07:36:23</sys_updated_on>
+        <visualization/>
+        <w>15</w>
+        <widget_props>{"filterPerMetric":[],"refreshFrequency":null}</widget_props>
+        <x>4</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
